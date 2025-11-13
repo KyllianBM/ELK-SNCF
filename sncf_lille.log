@@ -1,0 +1,132 @@
+2025-11-12 16:53:41,808 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:1.001s]
+2025-11-12 16:53:42,003 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.183s]
+2025-11-12 16:53:42,185 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.173s]
+2025-11-12 16:53:42,375 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.181s]
+2025-11-12 16:53:42,551 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.170s]
+2025-11-12 16:53:42,724 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.166s]
+2025-11-12 16:53:42,843 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.117s]
+2025-11-12 16:53:42,843 [INFO] \u2705 Frequentation historique indexée avec succès.
+2025-11-12 20:15:43,988 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 20:31:29,209 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 20:51:38,728 [INFO] Tâche planifiée : exécution toutes les 30 minutes.
+2025-11-12 20:53:10,217 [INFO] Tâche planifiée : exécution toutes les 30 minutes.
+2025-11-12 20:55:11,205 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 20:55:12,109 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.899s]
+2025-11-12 20:55:12,109 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 20:57:12,751 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 20:57:13,588 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.835s]
+2025-11-12 20:57:13,589 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 20:59:14,135 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 20:59:14,961 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.821s]
+2025-11-12 20:59:14,961 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:01:15,590 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:01:16,348 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.754s]
+2025-11-12 21:01:16,348 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:03:17,038 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:03:17,820 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.780s]
+2025-11-12 21:03:17,821 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:05:18,431 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:05:19,170 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.735s]
+2025-11-12 21:05:19,171 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:07:19,916 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:07:20,689 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.768s]
+2025-11-12 21:07:20,689 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:09:21,276 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:09:22,017 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.735s]
+2025-11-12 21:09:22,017 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:11:22,533 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:11:23,298 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.760s]
+2025-11-12 21:11:23,298 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:13:24,046 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:13:24,869 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.820s]
+2025-11-12 21:13:24,869 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:15:25,836 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:15:26,973 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:1.130s]
+2025-11-12 21:15:26,973 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:17:27,681 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:17:28,567 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.882s]
+2025-11-12 21:17:28,567 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:19:29,153 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:19:29,954 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.796s]
+2025-11-12 21:19:29,954 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:21:30,569 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:21:31,385 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.812s]
+2025-11-12 21:21:31,386 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:23:32,048 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:23:32,814 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.763s]
+2025-11-12 21:23:32,815 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:25:33,440 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:25:34,176 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.734s]
+2025-11-12 21:25:34,177 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:27:34,842 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:27:35,694 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.848s]
+2025-11-12 21:27:35,694 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:29:36,172 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:29:36,904 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.728s]
+2025-11-12 21:29:36,904 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:31:37,445 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:31:38,167 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.717s]
+2025-11-12 21:31:38,168 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:33:38,884 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:33:39,627 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.738s]
+2025-11-12 21:33:39,627 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:35:40,221 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:35:40,966 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.742s]
+2025-11-12 21:35:40,967 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:37:41,574 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:37:42,535 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.957s]
+2025-11-12 21:37:42,535 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:39:43,075 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:39:43,871 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.789s]
+2025-11-12 21:39:43,872 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:41:44,542 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:41:45,425 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.879s]
+2025-11-12 21:41:45,425 [INFO] \u2705 10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:44:11,168 [INFO] Tâche planifiée : exécution toutes les 30 minutes.
+2025-11-12 21:46:11,717 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:46:12,312 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.591s]
+2025-11-12 21:46:12,429 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.117s]
+2025-11-12 21:46:12,430 [ERROR] Erreur d'indexation : 10 document(s) failed to index.
+2025-11-12 21:46:12,430 [ERROR]  (0, [{'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF88850010CFFF59B9C62141747C0983A18064F9C7F2820251112220800', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:136] failed to parse field [timestamp] of type [date] in document with id '87286005CF88850010CFFF59B9C62141747C0983A18064F9C7F2820251112220800'. Preview of field's value: '2025-11-12T21:46:11.717505z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717505z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251112220900', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:146] failed to parse field [timestamp] of type [date] in document with id '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251112220900'. Preview of field's value: '2025-11-12T21:46:11.717575z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717575z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF88960080CFF7202091A520B47268959489BB0D7452720251112220900', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:138] failed to parse field [timestamp] of type [date] in document with id '87286005CF88960080CFF7202091A520B47268959489BB0D7452720251112220900'. Preview of field's value: '2025-11-12T21:46:11.717584z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717584z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87286302CFF7DB0420F470D4C90847F1560F0624F6020251112222300', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:142] failed to parse field [timestamp] of type [date] in document with id '87286005CF87286302CFF7DB0420F470D4C90847F1560F0624F6020251112222300'. Preview of field's value: '2025-11-12T21:46:11.717589z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717589z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87345009CFFBDEAC253A43242729E91A3365C78867C20251112222700', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:132] failed to parse field [timestamp] of type [date] in document with id '87286005CF87345009CFFBDEAC253A43242729E91A3365C78867C20251112222700'. Preview of field's value: '2025-11-12T21:46:11.717596z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717596z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87271007CF87286542CFC26120020251112232300', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:139] failed to parse field [timestamp] of type [date] in document with id '87271007CF87286542CFC26120020251112232300'. Preview of field's value: '2025-11-12T21:46:11.717600z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717600z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87343004CFFDB3D31E86F414A7285956FCD2110ED2220251113050500', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:146] failed to parse field [timestamp] of type [date] in document with id '87286005CF87343004CFFDB3D31E86F414A7285956FCD2110ED2220251113050500'. Preview of field's value: '2025-11-12T21:46:11.717604z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717604z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251113050900', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:146] failed to parse field [timestamp] of type [date] in document with id '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251113050900'. Preview of field's value: '2025-11-12T21:46:11.717608z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717608z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87295006CFFEF683B679F06479B9E5BBB38D497333B20251113053500', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:138] failed to parse field [timestamp] of type [date] in document with id '87286005CF87295006CFFEF683B679F06479B9E5BBB38D497333B20251113053500'. Preview of field's value: '2025-11-12T21:46:11.717612z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717612z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}, {'index': {'_index': 'sncf_lille_realtime', '_id': '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251113053900', 'status': 400, 'error': {'type': 'document_parsing_exception', 'reason': "[1:146] failed to parse field [timestamp] of type [date] in document with id '87286005CF87343004CFFA7CE67FFB9EA48CF9123EBB30BD8D04920251113053900'. Preview of field's value: '2025-11-12T21:46:11.717616z'", 'caused_by': {'type': 'illegal_argument_exception', 'reason': 'failed to parse date field [2025-11-12T21:46:11.717616z] with format [strict_date_optional_time||epoch_millis]', 'caused_by': {'type': 'date_time_parse_exception', 'reason': 'Failed to parse with all enclosed parsers'}}}}}]) documents ont échoué à l’indexation.
+2025-11-12 21:46:57,945 [INFO] Tâche planifiée : exécution toutes les 30 minutes.
+2025-11-12 21:48:58,491 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:48:59,333 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.835s]
+2025-11-12 21:48:59,333 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:50:59,912 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:51:00,712 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.794s]
+2025-11-12 21:51:00,712 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:53:01,345 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:53:02,056 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.709s]
+2025-11-12 21:53:02,057 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:55:02,691 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:55:03,461 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.766s]
+2025-11-12 21:55:03,461 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 21:57:52,659 [INFO] Tâche planifiée : exécution toutes les 30 minutes.
+2025-11-12 21:59:53,063 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 21:59:53,860 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.793s]
+2025-11-12 21:59:53,860 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:01:54,497 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:01:55,276 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.776s]
+2025-11-12 22:01:55,276 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:03:55,924 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:03:56,660 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.733s]
+2025-11-12 22:03:56,660 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:05:57,288 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:05:58,125 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.832s]
+2025-11-12 22:05:58,125 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:07:58,791 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:07:59,631 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.835s]
+2025-11-12 22:07:59,632 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:10:00,359 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:10:01,156 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.791s]
+2025-11-12 22:10:01,157 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:12:01,758 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:12:02,546 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.783s]
+2025-11-12 22:12:02,546 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:14:03,291 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:14:04,076 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.780s]
+2025-11-12 22:14:04,076 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-12 22:16:04,811 [INFO] Récupéré 10 départs depuis Lille.
+2025-11-12 22:16:05,731 [INFO] PUT https://6562768b3ede4c538ec18dcda52b0f7a.us-central1.gcp.cloud.es.io:443/_bulk [status:200 duration:0.915s]
+2025-11-12 22:16:05,732 [INFO]  10 documents indexés dans sncf_lille_realtime.
+2025-11-13 09:39:46,733 [INFO] Tâche planifiée : exécution toutes les 15 minutes.
