@@ -9,7 +9,7 @@ import requests, pandas as pd, re, logging, schedule, time
 # On charge les variables d’environnements
 load_dotenv()
 
-# On affecte ces variables mêmes variables
+# On affecte ces mêmes variables
 ELASTIC_CLOUD_ID = os.getenv("ELASTIC_CLOUD_ID")
 ELASTIC_USER = os.getenv("ELASTIC_USER")
 ELASTIC_PASSWORD = os.getenv("ELASTIC_PASSWORD")
