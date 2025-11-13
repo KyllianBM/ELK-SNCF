@@ -171,7 +171,7 @@ def load_historique_data():
 
 if __name__ == '__main__':
     # Fait tourner la fonction toute les 15mn
-    schedule.every(15).minutes.do(load_travel_to_elastic)
+    schedule.every(2).minutes.do(load_travel_to_elastic)
     logging.info("Tâche planifiée : exécution toutes les 15 minutes.")
     while True:
         # On vérifie si c'est le moment de relancer la fonction
