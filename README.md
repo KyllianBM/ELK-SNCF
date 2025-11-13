@@ -130,6 +130,6 @@ schedule.every(30).minutes.do(load_travel_to_elastic)  # toutes les 30 minutes
 
 ## 👨‍💻 Auteur
 **Kyllian Jean-Gilles**  
-Projet individuel – Enigma-Shcool  
+Projet individuel – Enigma-School  
 Thème : *Mobilité Voyageurs SNCF – Analyse et Indexation temps réel avec ELK Stack*  
 Année : 2025  - 2026
